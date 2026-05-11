@@ -11,8 +11,9 @@
 2. Installed Claude Code and Codex extensions from the Extensions Marketplace
 3. Created a public GitHub repository
 4. Opened the repository in Cursor
-5. Created and updated the README.md file
-6. Committed and pushed the changes to GitHub
+5. Installed Git
+6. Created and updated the README.md file
+7. Committed and pushed the changes to GitHub
 
 ## Issues Encountered
 
@@ -23,13 +24,7 @@ Initially, the Claude Code and Codex extensions did not appear in the Agent wind
 I installed them through the Extensions Marketplace in the editor sidebar instead.
 
 ### Git was not installed
-Cursor could not use commit and push features because Git was not installed locally.
+Cursor could not open repository and use commit and push features because Git was not installed locally.
 
 **Solution:**  
 I installed Git and configured it to work with Cursor and GitHub.
-
-### Claude usage limitation
-The Claude extension required sufficient account credits/subscription access before prompts could be used.
-
-**Solution:**  
-I reviewed the available access options and continued the setup with the accessible features.
